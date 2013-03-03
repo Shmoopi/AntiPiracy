@@ -3,6 +3,9 @@ Shmoopi Anti-Piracy
 
 Fast and Reliable Protection against iOS Piracy and Cracking!
 
+
+![Anti-Piracy](http://www.shmoopi.net/wp-content/uploads/2012/03/Anti-Piracy-Icon.png)
+
 ##How to use
 ==========
 
