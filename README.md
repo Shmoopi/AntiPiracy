@@ -50,6 +50,7 @@ The Full Shmoopi Anti-Piracy Library uses over a dozen algorithms to detect pira
 
 If you like what you see here and in the future from Shmoopi LLC, please feel free to write a review of our service, or feel free to ask us a question anytime in the comments. We appreciate your support!
 
-##
+##Disclosure
+==========
 
-*** Please note that Shmoopi Anti-Piracy is not infalliable, a seasoned cracker will, unfortunately, be able to disable nearly any protection and detection algorithms. This Library is intended to make that as difficult as possible, and as least invasive to the legitimate user as possible.  We claim no responsibility for damages caused by this library. ***
+Please note that Shmoopi Anti-Piracy is not infalliable, a seasoned cracker will, unfortunately, be able to disable nearly any protection and detection algorithms. This Library is intended to make that as difficult as possible, and as least invasive to the legitimate user as possible.  We claim no responsibility for damages caused by this library.
