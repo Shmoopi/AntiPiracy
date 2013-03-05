@@ -32,7 +32,7 @@ if ([SFAntiPiracy isPirated] != NOTPIRATED) {
 
 This is the Free Anti-Piracy Library Implementation.  If you like what you see and want to purchase our full Anti-Piracy Library, go to http://www.shmoopi.net/shmoopiantipiracy
 
-The Full Shmoopi Anti-Piracy Library uses over a dozen algorithms to detect piracy, (not just four) including:
+The Full Shmoopi Anti-Piracy Library utilizes over a dozen algorithms to detect piracy, (not just four) including:
 
 *Signer Identity Checks
 *Process ID Checks
@@ -48,7 +48,7 @@ The Full Shmoopi Anti-Piracy Library uses over a dozen algorithms to detect pira
 *MD5/SHA1 Hashing Checks
 *And much, much more…
 
-If you like what you see here and in the future from Shmoopi LLC, please feel free to write a review of our service, or feel free to ask us a question anytime in the comments. We appreciate your support!
+If you like what you see here and in the future from Shmoopi LLC, please feel free to write a review of our service, or feel free to ask us a question anytime. We appreciate your support!
 
 ##Disclosure
 ==========
